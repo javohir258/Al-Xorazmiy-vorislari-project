@@ -1,0 +1,17 @@
+
+h1{
+    color: rgb(205, 26, 221);
+}
+h2{
+    color: rgb(202, 27, 218);
+}
+div > p{
+    color: red;
+}
+ul li.done{
+    color: aqua;
+}
+ul li{
+    color: blue;
+}
+
